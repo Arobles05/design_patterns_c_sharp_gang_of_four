@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singlenton", "..\Singlenton\Singlenton.csproj", "{9794760C-52F2-4CB5-AEFD-3B4F2498C2AE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Creational pattern", "Creational pattern", "{4F311F8C-7027-42D8-8A3D-C5A1215DC048}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Structural Patterns", "Structural Patterns", "{D546A3AD-86BF-4BF0-9D56-79A697606FC3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Behavioral Patterns", "Behavioral Patterns", "{C8E4034A-AB90-4860-AB02-98C3423914B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9794760C-52F2-4CB5-AEFD-3B4F2498C2AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9794760C-52F2-4CB5-AEFD-3B4F2498C2AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9794760C-52F2-4CB5-AEFD-3B4F2498C2AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9794760C-52F2-4CB5-AEFD-3B4F2498C2AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9794760C-52F2-4CB5-AEFD-3B4F2498C2AE} = {4F311F8C-7027-42D8-8A3D-C5A1215DC048}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88AE9E8E-1C0A-4224-8AD1-B70D229169F7}
+	EndGlobalSection
+EndGlobal
